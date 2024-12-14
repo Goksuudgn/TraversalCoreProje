@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalCoreProje", "TraversalCoreProje\TraversalCoreProje.csproj", "{7CC3D8E9-3198-439B-8429-6E57676FBF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{326B0B74-D030-49F2-BE13-12C4C7FBC28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{A5E319E5-A624-4BF2-9983-2ECF20110B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC3D8E9-3198-439B-8429-6E57676FBF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC3D8E9-3198-439B-8429-6E57676FBF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC3D8E9-3198-439B-8429-6E57676FBF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC3D8E9-3198-439B-8429-6E57676FBF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326B0B74-D030-49F2-BE13-12C4C7FBC28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326B0B74-D030-49F2-BE13-12C4C7FBC28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326B0B74-D030-49F2-BE13-12C4C7FBC28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326B0B74-D030-49F2-BE13-12C4C7FBC28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E319E5-A624-4BF2-9983-2ECF20110B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E319E5-A624-4BF2-9983-2ECF20110B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E319E5-A624-4BF2-9983-2ECF20110B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E319E5-A624-4BF2-9983-2ECF20110B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
